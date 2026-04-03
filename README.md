@@ -149,7 +149,7 @@ Key minerals for men:
 
 These use bioactive vitamin forms, chelated minerals, and have meaningful third-party certification.
 
-#### 1. Thorne Basic Nutrients 2/Day -- Best Overall
+#### 1. [Thorne Basic Nutrients 2/Day](https://www.amazon.com/dp/B00BMEVW2K) -- Best Overall
 
 - **Form:** 2 veggie capsules/day | **Price:** ~$1.00/day | **Cert:** NSF Certified for Sport
 - Every B vitamin in its active form: P5P (B6), riboflavin 5'-phosphate (B2), methylfolate (B9), methylcobalamin (B12)
@@ -162,7 +162,7 @@ These use bioactive vitamin forms, chelated minerals, and have meaningful third-
 - Ultra-clean other ingredients: just capsule shell + 2 fillers
 - **Watch:** Selenium at 200 mcg (supplement ceiling), no meaningful calcium/magnesium, no choline, no omega-3
 
-#### 2. MegaFood Men's Advanced -- Best Bioavailable Runner-Up
+#### 2. [MegaFood Men's Advanced](https://www.amazon.com/dp/B0DPV72GWZ) -- Best Bioavailable Runner-Up
 
 - **Form:** 2 tablets/day | **Price:** ~$0.83/day | **Cert:** Non-GMO Project Verified
 - Active B forms: P5P (B6), active riboflavin 5'-phosphate (B2), methylfolate (B9), methylcobalamin (B12)
@@ -177,7 +177,7 @@ These use bioactive vitamin forms, chelated minerals, and have meaningful third-
 
 Strong products with USP or NSF certification, using standard (non-methylated) nutrient forms.
 
-#### 3. Nature Made Multi For Him -- Best Value with Verification
+#### 3. [Nature Made Multi For Him](https://www.amazon.com/dp/B004GJYSYI) -- Best Value with Verification
 
 - **Form:** 1 tablet/day | **Price:** ~$0.18/day | **Cert:** USP Verified
 - USP verified -- the only product on this list with the gold standard for label accuracy (among tablets)
@@ -186,7 +186,7 @@ Strong products with USP or NSF certification, using standard (non-methylated) n
 - 300 tablets per bottle -- nearly a year's supply
 - **Trade-off:** All non-methylated forms (folic acid, cyanocobalamin, pyridoxine), oxide mineral forms
 
-#### 4. Garden of Life Once Daily Men's -- Best Whole Food-Based
+#### 4. [Garden of Life Once Daily Men's](https://www.amazon.com/dp/B00K5NEPJY) -- Best Whole Food-Based
 
 - **Form:** 1 tablet/day | **Price:** ~$0.50/day | **Cert:** NSF Gluten-Free, Non-GMO, B Corp
 - Whole food-sourced nutrients from 587 mg organic food blend (30+ fruits/vegetables)
@@ -194,7 +194,7 @@ Strong products with USP or NSF certification, using standard (non-methylated) n
 - Best vitamin K among single-tablet products at 120 mcg (100% DV)
 - **Watch:** Missing calcium, magnesium, iodine, copper entirely. Low zinc (3.9 mg / 35%)
 
-#### 5. Nature Made Advanced Multi Gummy -- Best Gummy
+#### 5. [Nature Made Advanced Multi Gummy](https://www.amazon.com/dp/B0DFV4Y1YZ) -- Best Gummy
 
 - **Form:** 3 gummies/day | **Price:** ~$0.67/day | **Cert:** USP Verified
 - Only gummy with a meaningful mineral profile: zinc, selenium, manganese, chromium, molybdenum, iodine, calcium (130 mg), magnesium (42 mg)
@@ -206,7 +206,7 @@ Strong products with USP or NSF certification, using standard (non-methylated) n
 
 Solid products at budget prices. They use cheaper nutrient forms but deliver good amounts and have some quality signals.
 
-#### 6. Nature's Way Alive! Once Daily Men's -- Best Raw Potency per Dollar
+#### 6. [Nature's Way Alive! Once Daily Men's](https://www.amazon.com/dp/B003TQGXNQ) -- Best Raw Potency per Dollar
 
 - **Form:** 1 tablet/day | **Price:** ~$0.25/day | **Cert:** None
 - Highest B vitamin amounts of any single tablet: B1 (10 mg), B2 (10 mg), B6 (20 mg), B12 (50 mcg as methylcobalamin)
@@ -215,7 +215,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 - Includes saw palmetto, mushroom blend, digestive enzymes, lutein
 - **Watch:** No third-party cert, folic acid (not methylated), B6 as pyridoxine (not P5P), oxide minerals, selenium at 200 mcg
 
-#### 7. MegaFood One Daily Men's -- Solid Middle Ground
+#### 7. [MegaFood One Daily Men's](https://www.amazon.com/dp/B07BW2KLSC) -- Solid Middle Ground
 
 - **Form:** 1 tablet/day | **Price:** ~$0.33/day | **Cert:** Non-GMO Project Verified
 - Methylfolate + methylcobalamin (bioactive B9 and B12)
@@ -224,7 +224,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 - Includes boron (500 mcg) for bone/hormone support
 - **Watch:** Low vitamin A (20%), D3 (400 IU / 50%), no calcium or magnesium, B6 as pyridoxine not P5P
 
-#### 8. New Chapter Men's Multivitamin -- Best Fermented
+#### 8. [New Chapter Men's Multivitamin](https://www.amazon.com/dp/B003DGKLEQ) -- Best Fermented
 
 - **Form:** 1 tablet/day | **Price:** ~$0.50/day | **Cert:** Non-GMO, B Corp
 - Fermented nutrients for gentler stomach absorption
@@ -233,7 +233,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 - Herbal blends: maca, schizandra, hawthorn, elderberry, astragalus
 - **Watch:** Low folate (200 mcg / 50%), uses cyanocobalamin + folic acid, no calcium or magnesium
 
-#### 9. One A Day Men's Health Formula -- Budget Workhorse
+#### 9. [One A Day Men's Health Formula](https://www.amazon.com/dp/B005JRFKF2) -- Budget Workhorse
 
 - **Form:** 1 tablet/day | **Price:** ~$0.08/day | **Cert:** None
 - Strong mineral profile: calcium (210 mg -- highest), magnesium (120 mg -- second highest among tablets), iodine, zinc, selenium, copper, manganese, chromium
@@ -241,7 +241,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 - Good B5 (15.5 mg / 310%)
 - **Watch:** No third-party cert, all non-methylated, magnesium as oxide
 
-#### 10. NOW EcoGreen Multi -- Best Mid-Tier Value
+#### 10. [NOW EcoGreen Multi](https://www.amazon.com/dp/B004S88CKI) -- Best Mid-Tier Value
 
 - **Form:** 2 veg capsules/day | **Price:** ~$0.18/day | **Cert:** GMP
 - TRAACS zinc bisglycinate + chelated copper/manganese -- same Albion mineral tech as Thorne
@@ -251,7 +251,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 - 90 servings, vegan, kosher
 - **Watch:** All non-methylated B forms, vitamin D only 400 IU as D2 (not D3), high vitamin E (667%)
 
-#### 11. NOW Daily Vits -- Cheapest Quality Option
+#### 11. [NOW Daily Vits](https://www.amazon.com/dp/B000X0SKUA) -- Cheapest Quality Option
 
 - **Form:** 1 tablet/day | **Price:** ~$0.07/day | **Cert:** GMP
 - TRAACS chelated zinc + copper (same Albion minerals as Thorne) in a $0.07/day tablet
@@ -262,7 +262,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 
 ### Tier 4: Specialty / Not a Standalone Multi
 
-#### 12. Blueprint Bryan Johnson Essential -- Longevity Stack (Not a Multivitamin)
+#### 12. [Blueprint Bryan Johnson Essential](https://blueprint.bryanjohnson.com/products/essential-capsules) -- Longevity Stack (Not a Multivitamin)
 
 - **Form:** 2 veggie capsules/day | **Price:** ~$1.17/day | **Cert:** Non-GMO, Vegan
 - Longevity compounds: nicotinamide riboside (300 mg), fisetin (100 mg), spermidine (10 mg), ubiquinol CoQ10 (50 mg), broccoli seed extract (200 mg), lithium orotate (1 mg)
@@ -270,7 +270,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 - Methylfolate + methylcobalamin, zinc bisglycinate, selenium as L-selenomethionine
 - **Critical:** Missing vitamin A, C, and K entirely. Low B vitamins. Not a replacement for a multivitamin. Use as a companion product.
 
-#### 13. Ritual Essential for Men 18+ -- Popular Minimalist (Not a Standalone Multi)
+#### 13. [Ritual Essential for Men 18+](https://ritual.com/products/essential-multivitamin-for-men) -- Popular Minimalist (Not a Standalone Multi)
 
 - **Form:** 2 vegan capsules/day | **Price:** ~$1.10/day | **Cert:** Non-GMO Project Verified, third-party tested
 - Only 10 nutrients by design -- Ritual's "less is more" philosophy targets common dietary gaps rather than comprehensive coverage
@@ -282,7 +282,7 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 - Beautiful branding, transparent sourcing (every ingredient traceable to its supplier)
 - **Critical:** Missing vitamin C, B1, B2, B3, B5, B6, biotin, selenium, iodine, copper, manganese, chromium, and calcium entirely. At $1.10/day this is more expensive than Thorne ($1.00/day) while containing a fraction of the nutrients. The DHA is the only real differentiator -- but you can add standalone fish oil to any multi for $0.10/day.
 
-#### 14. NOW Special Two -- Best Magnesium/Calcium (With Caveats)
+#### 14. [NOW Special Two](https://www.amazon.com/dp/B001F0R2I2) -- Best Magnesium/Calcium (With Caveats)
 
 - **Form:** 4 veg capsules/day | **Price:** ~$0.50/day | **Cert:** GMP
 - Best magnesium of any product tested: 350 mg / 83% DV (next best is 120 mg)
@@ -293,15 +293,15 @@ Solid products at budget prices. They use cheaper nutrient forms but deliver goo
 
 ### Tier 5: Skip These
 
-#### Vegan Vitality Multi (#14) -- Dangerous Iron Content
+#### [Vegan Vitality Multi](https://www.amazon.com/dp/B01N6RQ3F3) (#14) -- Dangerous Iron Content
 
 78 mg iron (700% DV). Men rarely need supplemental iron and excess causes organ damage. Immediate disqualification.
 
-#### Centrum Men's (#12) -- Artificial Colors and Fillers
+#### [Centrum Men's](https://www.amazon.com/dp/B002MRM7CU) (#12) -- Artificial Colors and Fillers
 
 Contains Red 40, Yellow 6, titanium dioxide, BHT. Lowest folate of the group (333 mcg / 83%). The ingredients list reads like a chemistry experiment. Hard pass.
 
-#### SmartyPants Men's Gummies (#3) -- Marketing Over Substance
+#### [SmartyPants Men's Gummies](https://www.amazon.com/dp/B00G9VA98Q) (#3) -- Marketing Over Substance
 
 Low B vitamins (B1 at 10% DV, B2 at 20%), omega-3 is ALA from flaxseed (not EPA/DHA -- converts at only 5-10%), 7g added sugar per serving, 4 gummies/day, most expensive gummy option. It does use methylfolate, methylcobalamin, and P5P, but the amounts are too low to matter. Missing magnesium, calcium, copper, manganese, and chromium entirely.
 
