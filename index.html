@@ -87,14 +87,29 @@
     font-size: 0.7rem; white-space: normal; width: max-content; max-width: 220px;
     z-index: 10; box-shadow: 0 2px 8px rgba(0,0,0,0.4);
   }
+  .github-btn {
+    position: fixed; top: 12px; right: 16px; z-index: 100;
+    display: inline-flex; align-items: center; gap: 6px;
+    background: #21262d; color: var(--text); border: 1px solid var(--border);
+    padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: 500;
+    text-decoration: none; transition: background 0.15s;
+  }
+  .github-btn:hover { background: #30363d; }
+  .github-btn svg { fill: var(--text); }
   @media (max-width: 768px) {
     body { padding: 8px; }
     th, td { padding: 3px 5px; font-size: 0.62rem; min-width: 65px; }
     th:first-child, td:first-child { min-width: 90px; }
+    .github-btn { top: 8px; right: 8px; padding: 4px 8px; font-size: 0.7rem; }
   }
 </style>
 </head>
 <body>
+
+<a href="https://github.com/ariel-frischer/multivitamin-compare" class="github-btn" target="_blank" rel="noopener">
+  <svg height="16" width="16" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+  Source
+</a>
 
 <h1>Men's Multivitamin Comparison Table -- 20 Products</h1>
 <p class="subtitle">Color = % Daily Value. Green: 100%+ DV. Yellow: 50-99%. Red: below 50% or missing. Form tags indicate bioavailability. Hover cells for notes. Data from manufacturer labels, Feb 2026.</p>
