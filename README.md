@@ -2,9 +2,92 @@
 
 Most men pick their multivitamin the same way they pick a gas station: whatever's closest and cheapest. The result is a $0.08/day tablet full of the cheapest synthetic forms that look great on the label but absorb poorly where it counts.
 
-This is a data-driven comparison of 20 men's multivitamins -- tablets, capsules, and gummies -- ranked by nutrient quality, bioavailability of vitamin forms, third-party verification, mineral completeness, and value per dollar. Two Amazon marketplace brands (Veyttisy and ZEGBALP) were dropped from the original 22 for having zero third-party verification and no brand accountability.
+This comparison exists because the information didn't exist in one place. Every "best of" list out there is either sponsored content, affiliate-driven rankings that conveniently recommend the most expensive option, or surface-level comparisons that never look past the front label. None of them compared the actual nutrient forms, mineral completeness, or price-to-quality ratio across more than a handful of products.
 
-**Methodology note:** Nutrition data was compiled from supplement facts panels and manufacturer labels. Every value was cross-checked against the listed supplement facts.
+So I built it. I pulled the supplement facts panels from 22 men's multivitamins -- tablets, capsules, and gummies -- and built a nutrient-by-nutrient comparison scored on a transparent rubric. Two Amazon marketplace brands (Veyttisy and ZEGBALP) were dropped for having zero third-party verification and no brand accountability, leaving 20 products ranked across five tiers.
+
+**[View the interactive comparison table](https://ariel-frischer.github.io/multivitamin-compare/)** -- color-coded by % Daily Value with bioavailability form tags.
+
+**Methodology:** Nutrition data was compiled from supplement facts panels -- in many cases by reading the actual nutrition label images on Amazon product pages. Every value was cross-checked against the manufacturer's listed supplement facts.
+
+---
+
+## Scoring Rubric
+
+Every product was scored out of 100 points across five categories. This rubric determines tier placement -- not vibes, not brand reputation, not price alone. Products in Tier 4 (Specialty) are scored but classified separately because they don't attempt to be standalone multivitamins. Products in Tier 5 (Skip) have disqualifying factors regardless of score.
+
+### 1. Bioavailability of Nutrient Forms (30 points)
+
+The single most important differentiator. Two products can list identical amounts on the label and deliver wildly different results in your bloodstream.
+
+| Subcategory | Points | Criteria |
+|-------------|:------:|----------|
+| B vitamin forms | 0-15 | +4 for methylfolate (vs folic acid), +4 for methylcobalamin (vs cyano), +4 for P5P (vs pyridoxine), +3 for R5P (vs riboflavin) |
+| Mineral forms | 0-10 | +4 for chelated zinc (TRAACS/bisglycinate), +3 for chelated magnesium (bisglycinate/malate/citrate vs oxide), +3 for selenomethionine (vs selenite/selenate) |
+| Other forms | 0-5 | +2 for D3 (vs D2), +2 for mixed tocopherols (vs dl-alpha only), +1 for K2 MK-7 or MK-4 (vs K1 only) |
+
+### 2. Third-Party Certification (20 points)
+
+The supplement industry is self-regulated in the US. Certification is the only guarantee that the bottle contains what the label claims.
+
+| Certification | Points | What it verifies |
+|---------------|:------:|-----------------|
+| USP Verified | 20 | Identity, strength, purity, dissolution -- gold standard |
+| NSF Certified for Sport | 18 | Contaminants, banned substances, label accuracy |
+| NSF Gluten-Free / NSF certified | 12 | Specific claims verified by NSF |
+| Non-GMO Project Verified | 8 | GMO ingredient testing (not nutrient quality) |
+| B Corp | 5 | Corporate ethics (not product quality) |
+| GMP (facility standard) | 3 | Baseline manufacturing practices |
+| None | 0 | Trusting the manufacturer's word |
+
+### 3. Nutrient Completeness (25 points)
+
+Does the product actually cover the full spectrum, or is it a glorified B-complex with some vitamin D?
+
+| Subcategory | Points | Criteria |
+|-------------|:------:|----------|
+| Vitamin coverage | 0-10 | 1 pt per vitamin present at ≥50% DV: A, C, D, E, K, B1, B2, B3, B6, B9/folate. No partial credit. |
+| Mineral coverage | 0-15 | Up to 2 pts each for zinc, selenium, magnesium, iodine, chromium, copper, manganese present at ≥25% DV. +1 bonus for calcium ≥10% DV. |
+
+### 4. Dosage Adequacy (15 points)
+
+Having the nutrient is step one. Having enough of it is step two.
+
+| Range | Points per nutrient |
+|-------|:-------------------:|
+| ≥100% DV | Full credit |
+| 50-99% DV | Half credit |
+| <50% DV or missing | Zero |
+
+Scored across 15 key nutrients (A, C, D, E, K, B1, B2, B3, B6, B9, B12, zinc, selenium, iodine, chromium). Each nutrient contributes 1 point at full credit, 0.5 at half. Total normalized to 15 points.
+
+### 5. Value (10 points)
+
+Price per day mapped to a curve. Being cheap doesn't make a product good, but being expensive had better come with results.
+
+| Price/Day | Points |
+|-----------|:------:|
+| ≤$0.10 | 10 |
+| $0.11-$0.25 | 8 |
+| $0.26-$0.50 | 6 |
+| $0.51-$0.85 | 4 |
+| $0.86-$1.10 | 2 |
+| >$1.10 | 1 |
+
+### Tier Thresholds
+
+| Tier | Score Range | Description |
+|------|:----------:|-------------|
+| **Tier 1: Clinical Grade** | 80-100 | Bioactive forms, chelated minerals, strong certification |
+| **Tier 2: Verified Quality** | 65-79 | Strong certification, standard forms, good completeness |
+| **Tier 3: Good Value** | 45-64 | Decent products at budget prices, standard forms |
+| **Tier 4: Specialty** | Any | Not standalone multis -- scored but classified separately |
+| **Tier 5: Skip** | Any | Disqualifying factors (dangerous iron, artificial colors, misleading marketing) |
+
+**Disqualifying factors (automatic Tier 5):**
+- Iron >10 mg (dangerous for men without diagnosed deficiency)
+- Artificial colors (Red 40, Yellow 6, titanium dioxide)
+- Marketing claims fundamentally misaligned with contents (e.g., "complete multi" missing 10+ nutrients)
 
 ---
 
@@ -259,9 +342,4 @@ Stop reading labels for big numbers. Start reading them for the right forms.
 
 *Data sourced from manufacturer labels and supplement facts panels as of February 2026. Prices are approximate and based on common US retail pricing. This is not medical advice -- consult your doctor before starting any supplement regimen.*
 
----
-
-## Interactive Comparison Table
-
-**[View the full nutrient-by-nutrient comparison table here](https://ariel-frischer.github.io/multivitamin-compare/)** -- color-coded by % Daily Value with bioavailability form tags.
 
