@@ -4,9 +4,7 @@ Most men pick their multivitamin the same way they pick a gas station: whatever'
 
 This is a data-driven comparison of 20 men's multivitamins -- tablets, capsules, and gummies -- ranked by nutrient quality, bioavailability of vitamin forms, third-party verification, mineral completeness, and value per dollar. Two Amazon marketplace brands (Veyttisy and ZEGBALP) were dropped from the original 22 for having zero third-party verification and no brand accountability.
 
-**Personal note:** I can't swallow pills. Everything here is either a crushable tablet, a gummy, or a capsule I can open and mix. If that's your situation too, this matters more than you think -- it narrows the field fast.
-
-**Methodology note:** The nutrition data for each product was painstakingly compiled from supplement facts panels -- in many cases by reading the actual nutrition label images on Amazon product pages and manually entering the data. AI-assisted data entry from those label images made the process bearable, but every value was cross-checked against the manufacturer's listed supplement facts.
+**Methodology note:** Nutrition data was compiled from supplement facts panels and manufacturer labels. Every value was cross-checked against the listed supplement facts.
 
 ---
 
@@ -267,30 +265,3 @@ Stop reading labels for big numbers. Start reading them for the right forms.
 
 **[View the full nutrient-by-nutrient comparison table here](https://ariel-frischer.github.io/multivitamin-compare/)** -- color-coded by % Daily Value with bioavailability form tags.
 
----
-
-## Personal Supplement Stack (Research Notes)
-
-### Morning
-- Men's multivitamin (brand TBD)
-- Creatine
-- Cocoa powder (high polyphenols)
-- Olive oil (1 spoon)
-- Cinnamon (1 tsp or tbsp)
-
-### With Meals
-- Pumpkin seeds (magnesium source)
-- Protein powder (lactation-free chocolate milk drink)
-
-### Evening / Before Bed
-- Glycine (1/2 teaspoon)
-
-### Notes
-- Glycine helps with sleep onset and morning wakefulness
-- Cocoa powder for polyphenols
-- Cinnamon for metabolic benefits
-- Pumpkin seeds as natural magnesium supplement
-
-### To Add/Consider
-- More meat/protein (tuna occasionally, need more variety)
-- Household is mostly vegetarian but adding more animal protein
